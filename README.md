@@ -32,6 +32,5 @@ You should already be familiar with React 17 and or 18, JavaScript ES5/ES6/ES7 a
 
 The backend of this project is currently under construction so please use the Create React App development server by running`npm start` inside the root of the project folder after installing with `npm i` or `npm install`.
 
-This is not hosted anywhere yet and is not yet production ready.
 
-If you would like something to work on, there are plenty of TODO's here <https://github.com/gbowne1/codebooker/blob/master/TODO.md>
+
